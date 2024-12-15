@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "name": "GREEN ARMY KVISTBRO",
+      "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/790/1179048_PE895817_S4.webp",
+      "category": "kitchen",
+      "price": 300000,
+      "id": "a6b4",
+      "datetime": "2024-12-10T12:56:48.220Z"
+    },
+    {
+      "id": "b5d3",
+      "name": "KARAFF",
+      "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/112/0711268_PE728106_S4.webp",
+      "category": "kitchen",
+      "price": 19900,
+      "datetime": "2024-12-10T12:56:48.220Z"
+    },
+    {
+      "id": "b4dc",
+      "name": "LERBERG",
+      "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/222/0022216_PE235922_S4.webp",
+      "category": "storage",
+      "price": 249900,
+      "datetime": "2024-12-10T12:56:48.220Z"
+    },
+    {
+      "id": "9ab3",
+      "name": "DINERA",
+      "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/425/0642527_PE701233_S4.webp",
+      "category": "kitchen",
+      "price": 29900,
+      "datetime": "2024-12-10T12:56:48.220Z"
+    },
+    {
+      "id": "afbf",
+      "name": "DUKTIG",
+      "image": "https://www.ikea.co.id/dairyfarm/id/images/117/0711777_PE728426_S4.jpg",
+      "category": "kitchen",
+      "price": 39900,
+      "datetime": "2024-12-10T12:56:48.220Z"
+    },
+    {
+      "id": "7aa2",
+      "name": "KARAFF 2",
+      "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/112/0711268_PE728106_S4.webp",
+      "category": "desk",
+      "price": 90000,
+      "datetime": "2024-12-10T12:56:48.220Z"
+    },
+    {
+      "id": "f66e",
+      "name": "LERBERG",
+      "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/222/0022216_PE235922_S4.webp",
+      "category": "storage",
+      "price": 200000,
+      "datetime": "2024-12-10T12:56:48.220Z"
+    },
+    {
+      "id": "cce0",
+      "name": "NEW DINERA",
+      "image": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/425/0642527_PE701233_S4.webp",
+      "category": "kitchen",
+      "price": 50000,
+      "datetime": "2024-12-10T12:58:12.733Z"
+    },
+    {
+      "id": "e071",
+      "name": "DUKTIG 2",
+      "image": "https://www.ikea.co.id/dairyfarm/id/images/117/0711777_PE728426_S4.jpg",
+      "category": "kitchen",
+      "price": 40000,
+      "datetime": "2024-12-10T12:59:46.862Z"
+    }
+  ]
+}
